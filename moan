@@ -1,5 +1,5 @@
 if getgenv().void then return getgenv().void end
-
+print("Thanks for using void!")
 -- // Services
 local Players = game:GetService("Players")
 local Workspace = game:GetService("Workspace")
